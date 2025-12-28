@@ -39,8 +39,9 @@ msg = f'''House price is: ${house_price*100_000}'''
 st.success(msg)
 
 
-st.markdown('''**Design by: Animesh Singh Tomar**''')
+st.markdown('''**Design and Developed by: Animesh Singh Tomar**''')
 
 
  
+
 
